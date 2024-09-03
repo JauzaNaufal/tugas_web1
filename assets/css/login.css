@@ -1,6 +1,4 @@
-/* styles2.css */
 
-/* Mengatur tampilan umum halaman */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -11,7 +9,7 @@ body {
     margin: 0;
 }
 
-/* Mengatur tampilan form */
+
 #LoginForm {
     background-color: #ffffff;
     padding: 20px;
@@ -21,7 +19,7 @@ body {
     max-width: 100%;
 }
 
-/* Mengatur tampilan label dan input */
+
 form div {
     margin-bottom: 15px;
 }
@@ -39,11 +37,10 @@ input[type="password"] {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    background-color: #ffffff; /* Warna latar belakang input */
-    color: #000000; /* Warna teks input */
+    background-color: #ffffff; /
+    color: #000000; /
 }
 
-/* Mengatur tampilan tombol */
 button {
     background-color: #007bff;
     color: #ffffff;
